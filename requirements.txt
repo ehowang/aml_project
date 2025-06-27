@@ -8,5 +8,6 @@ scipy
 modAL
 xgboost
 torch
+networkx
 tqdm
 kagglehub
