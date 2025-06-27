@@ -11,3 +11,4 @@ torch
 networkx
 tqdm
 kagglehub
+torch
