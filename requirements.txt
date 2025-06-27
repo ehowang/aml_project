@@ -9,3 +9,4 @@ modAL
 xgboost
 torch
 tqdm 
+networkx
