@@ -51,4 +51,4 @@ You can run the code using Jupyter Lab or Jupyter Notebook:
 jupyter lab
 ```
 
-Then, open the desired notebook (e.g., `Grp Proj.ipynb`) and run the cells.
+Then, open the desired notebook (e.g., `eda.ipynb`) and run the cells.
